@@ -1,0 +1,11 @@
+# Ignorar entornos virtuales
+myenv/
+venv/
+
+# Archivos innecesarios de Django
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Configuración de entorno
+.env
